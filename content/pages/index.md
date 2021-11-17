@@ -280,7 +280,7 @@ sections:
     form:
       type: FormBlock
       elementId: contact-form
-      destination: ''
+      destination: artem@stackbit.com
       action: /functions/submission_created
       fields:
         - type: TextFormControl
